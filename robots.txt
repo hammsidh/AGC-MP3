@@ -1,0 +1,12 @@
+User-agent: Mediapartners-Google
+User-agent: *
+User-agent: Googlebot
+Allow: /
+User-agent: msnbot
+Allow: /
+User-agent: naverbot
+Allow: /
+User-agent: baiduspider
+Allow: /
+User-agent: Slurp
+Allow: /
